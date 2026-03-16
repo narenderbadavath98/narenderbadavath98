@@ -1,12 +1,34 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Narender Badavath**, a motivated **Computer Science undergraduate** and **Python Full Stack Developer** with hands-on experience in building full-stack web applications using **Django, React, and REST APIs**.<br><br>I am currently undergoing **intensive Python Full Stack training at QSpiders, Bengaluru**, where I work on real-time assignments, mini-projects, and interview-oriented problem solving. I have practical experience integrating **Generative AI features** into web applications, including prompt engineering and API-level integrations.<br><br>My interests lie in **backend development, scalable web systems, and AI-powered applications**. I enjoy building real-world solutions that combine clean backend logic with responsive user interfaces.<br><br>I am actively seeking an **entry-level Software Developer / Full Stack Developer role in Bengaluru**, where I can contribute, learn, and grow in a fast-paced engineering environment.<br>
+## 👋 About Me<br><br>
+Hi, I'm **Narender Badavath**, a motivated **Computer Science undergraduate** and aspiring **Software Development Engineer in Test (SDET)** with strong interest in **Software Testing and Automation**.<br><br>
+
+I am currently undergoing **SDET (Software Development Engineer in Test) training at QSpiders in collaboration with Test Yantra, Rajajinagar, Bengaluru**, where I am learning **Manual Testing, SQL, Core Java/Python, Selenium Automation Testing, and API Testing** through real-time assignments and interview-oriented problem solving.<br><br>
+
+I enjoy identifying bugs, improving software quality, and building **automated testing solutions** that ensure reliable and scalable applications. My interests include **test automation, software quality assurance, and backend logic**.<br><br>
+
+I am actively seeking an **entry-level Software Testing / QA Engineer / SDET role in Bengaluru**, where I can apply my technical knowledge and grow in a professional testing environment.<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codediscipline_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narender-badavath) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codediscipline_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narender-badavath) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Software_Testing-blue?style=for-the-badge) 
+![Selenium](https://img.shields.io/badge/Selenium-Automation-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![API Testing](https://img.shields.io/badge/API_Testing-Postman-orange?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-API_Testing-orange?style=for-the-badge&logo=postman&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=narenderbadavath98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=narenderbadavath98&theme=dark&hide_border=false)<br/>
