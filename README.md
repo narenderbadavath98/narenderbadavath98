@@ -15,7 +15,6 @@ I am actively seeking an **entry-level Software Testing / QA Engineer / SDET rol
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-Software_Testing-blue?style=for-the-badge) 
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![API Testing](https://img.shields.io/badge/API_Testing-Postman-orange?style=for-the-badge) 
